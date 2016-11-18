@@ -1,0 +1,29 @@
+{
+  "name": "moglio",
+  "version": "0.0.1",
+  "description": "A simple file manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rauffer/moglio"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Mark Pundsack",
+  "contributors": [
+    "Rauffer Lobo <rauffer@gmail.com>"
+  ],
+  "license": "MIT"
+}

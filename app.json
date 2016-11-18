@@ -1,0 +1,6 @@
+{
+  "name": "moglio",
+  "description": "A simple file manager",
+  "repository": "https://github.com/rauffer/moglio",
+  "keywords": ["node", "express", "static"]
+}
